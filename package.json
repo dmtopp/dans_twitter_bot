@@ -1,0 +1,24 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "twitter bot experimemtn",
+  "main": "app.js",
+  "dependencies": {
+    "twitter": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "bots",
+    "robot",
+    "takeover",
+    "computers",
+    "rule",
+    "us"
+  ],
+  "author": "dan",
+  "license": "MIT"
+}
